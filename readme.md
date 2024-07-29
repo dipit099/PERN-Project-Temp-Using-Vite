@@ -48,3 +48,7 @@ npm run dev
 ```
 
 ###  To preview md Files by keyboard , press `"Ctrl + Shift + V"`
+## To expose your localhost of client
+```bash
+npm run dev -- --host
+```
