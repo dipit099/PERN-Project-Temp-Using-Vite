@@ -1,0 +1,74 @@
+/* Container for the entire home page */
+.home-container {
+    margin: 0 auto;
+    padding: 20px; /* Add some padding around the content */   
+    font-family: Arial, sans-serif;
+    background-color: wheat;
+  }
+  
+  /* Styling for the header section */
+  .home-header {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #6200ea; /* Violet background */
+    color: #ffffff; /* White text */
+  }
+  
+  .home-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .home-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Main content styling */
+  .home-content {
+    padding: 20px;
+  }
+  
+  .home-introduction,
+  .home-features {
+    margin-bottom: 40px;
+  }
+  
+  .section-title {
+    font-size: 1.8rem;
+    color: #333333; /* Dark text color */
+    margin-bottom: 10px;
+  }
+  
+  .section-text {
+    font-size: 1rem;
+    color: #555555; /* Medium text color */
+    line-height: 1.6;
+  }
+  
+  /* Features list styling */
+  .features-list {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .feature-item {
+    font-size: 1rem;
+    color: #333333;
+    margin-bottom: 5px;
+  }
+  
+  /* Footer styling */
+  .home-footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #000000; /* Light grey background */
+    position: relative;
+    margin: 0;
+  }
+  
+  .footer-text {
+    font-size: 0.9rem;
+    color: #ffffff; /* Light grey text color */
+  }
+  
